@@ -1,0 +1,6 @@
+theme: "jekyll-theme-slate"
+title: "AnyStor - Unified Storage OS"
+description: "An open source, high performance, unified storage platform."
+github:
+  repository_url: "https://github.com/anystor"
+  repository_name: "anystor"
